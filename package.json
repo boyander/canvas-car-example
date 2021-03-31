@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build --out-dir docs index.html"
+    "build": "parcel build --out-dir docs --public-url /canvas-car-example index.html"
   },
   "license": "MIT",
   "dependencies": {
