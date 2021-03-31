@@ -1,0 +1,5 @@
+- [ctx.arc()](https://developer.mozilla.org/es/docs/Web/API/CanvasRenderingContext2D/arc)
+- [ctx.fillRect](https://developer.mozilla.org/es/docs/Web/API/CanvasRenderingContext2D/fillRect)
+- [ctx.rotate](https://developer.mozilla.org/es/docs/Web/API/CanvasRenderingContext2D/rotate)
+- [ctx.drawImage](https://developer.mozilla.org/es/docs/Web/API/CanvasRenderingContext2D/drawImage)
+- https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
